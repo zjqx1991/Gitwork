@@ -194,6 +194,7 @@
 		045F7FFB1F9C6BC6009E56A7 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				CLASSPREFIX = Revan;
 				LastUpgradeCheck = 0900;
 				ORGANIZATIONNAME = "紫荆秋雪";
 				TargetAttributes = {
