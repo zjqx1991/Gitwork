@@ -17,6 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     NSLog(@"Git工作原理");
+    NSLog(@"tag练习");
 }
 
 
